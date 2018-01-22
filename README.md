@@ -6,6 +6,8 @@ A javascript game prototype with mic imput.
 ## How to play
 The airplane is falling down! As a god you must save the passengers in the plane with your breath and guide it to the airport!
 
+Your browser may ask you the access permision to the microphone, in this case press "accept".
+
 ## Dependencies
 Modern webbrowser with ES6 compatibility
 
